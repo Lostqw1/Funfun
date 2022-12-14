@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-14T13:59:47.555Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Safari/605.1.15" version="20.6.0" etag="2dXZ0JmpBm4lELDEzuZm" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-14T14:00:52.330Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Safari/605.1.15" version="20.6.0" etag="apxw8gdGMfAyW8EgqW7Q" type="github">
   <diagram id="Ox3X5c6o4E4mUoxkDMP3" name="Seite-1">
     <mxGraphModel dx="1169" dy="734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
@@ -423,6 +423,12 @@
               <mxPoint x="2160" y="1350" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="-sYWdjPN1BsK5IJ5CKsn-78" value="Physikalische Prinzipien" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=14;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1660" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-sYWdjPN1BsK5IJ5CKsn-79" value="Softwaretechnische&lt;br&gt;Umsetzung" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=14;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1670" y="1300" width="130" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
