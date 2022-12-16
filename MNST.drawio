@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-16T08:46:38.893Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Safari/605.1.15" version="20.6.0" etag="-9J-MMo-6jyiio4MfygR" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-16T08:49:45.874Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Safari/605.1.15" version="20.6.0" etag="9yphrCdZEhZ_q4jQF4OC" type="github">
   <diagram id="Ox3X5c6o4E4mUoxkDMP3" name="Seite-1">
     <mxGraphModel dx="1670" dy="1049" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
@@ -641,7 +641,7 @@
             <mxPoint x="2470" y="390" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1840" y="260" />
-              <mxPoint x="1840" y="130" />
+              <mxPoint x="1840" y="133" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -739,7 +739,7 @@
             <mxPoint x="1940" y="420" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1840" y="260" />
-              <mxPoint x="1840" y="440" />
+              <mxPoint x="1840" y="445" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -753,10 +753,25 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-sYWdjPN1BsK5IJ5CKsn-122" value="Phototransistor" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=13;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1845" y="380" width="120" height="60" as="geometry" />
+          <mxGeometry x="1870" y="42.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DmaP0IcwDJtdefpeu606-33" value="Agnė Butkutė, Tomas Baravykas, Jokūbas Stančikas, Titas Tičkūnas, Rokas Vargalis, Domas Paipulas, Valdas Sirutkaitis, and Linas Jonušauskas, &quot;Optimization of selective laser etching (SLE) for glass micromechanical structure fabrication,&quot; Opt. Express 29, 23487-23499 (2021)&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#e1d5e7;strokeColor=#9673a6;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="1120" y="42.5" width="280" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="-sYWdjPN1BsK5IJ5CKsn-123" value="" style="endArrow=classic;html=1;rounded=0;fontSize=13;fontColor=#000000;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="-sYWdjPN1BsK5IJ5CKsn-3" target="-sYWdjPN1BsK5IJ5CKsn-122">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1890" y="250" as="sourcePoint" />
+            <mxPoint x="1940" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-sYWdjPN1BsK5IJ5CKsn-124" value="H. Xie et al., &quot;A SiGe/Si Phototransistor With High FOM of Gain*VA Using 0.35-μm BiCMOS Technology,&quot; in IEEE Transactions on Electron Devices, vol. 69, no. 10, pp. 5612-5617, Oct. 2022, doi: 10.1109/TED.2022.3200925." style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=13;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="2060" y="26" width="240" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="-sYWdjPN1BsK5IJ5CKsn-125" value="" style="endArrow=classic;html=1;rounded=0;fontSize=13;fontColor=#000000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="-sYWdjPN1BsK5IJ5CKsn-122" target="-sYWdjPN1BsK5IJ5CKsn-124">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1890" y="260" as="sourcePoint" />
+            <mxPoint x="1940" y="210" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
