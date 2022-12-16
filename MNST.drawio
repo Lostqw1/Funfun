@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-16T08:07:26.845Z" agent="5.0 (Windows)" etag="ZjzXoh1TJgUpSE7odWaV" version="20.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-16T08:10:32.560Z" agent="5.0 (Windows)" etag="E6BXDu5ozl-063D2ADcU" version="20.7.3" type="github">
   <diagram id="Ox3X5c6o4E4mUoxkDMP3" name="Seite-1">
-    <mxGraphModel dx="2093" dy="1128" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
+    <mxGraphModel dx="3044" dy="1640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -431,7 +431,7 @@
           <mxGeometry x="1850" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-sYWdjPN1BsK5IJ5CKsn-79" value="Softwaretechnische&lt;br&gt;Umsetzung" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=14;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="1770" y="960" width="130" height="70" as="geometry" />
+          <mxGeometry x="1840" y="998.5" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="-sYWdjPN1BsK5IJ5CKsn-83" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;fontColor=#000000;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="-sYWdjPN1BsK5IJ5CKsn-1" target="-sYWdjPN1BsK5IJ5CKsn-78">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -440,7 +440,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DmaP0IcwDJtdefpeu606-1" value="Maxim Integrated Productc, Inc. Datenblatt MAX30102. 2018 " style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1150" y="910" width="220" height="83" as="geometry" />
+          <mxGeometry x="1150" y="855.5" width="220" height="83" as="geometry" />
         </mxCell>
         <mxCell id="-sYWdjPN1BsK5IJ5CKsn-84" value="Sport" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="2535" y="1320" width="120" height="60" as="geometry" />
@@ -461,7 +461,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DmaP0IcwDJtdefpeu606-3" value="Arduino.cc &quot;Measure Heart Rate and SpO2 with MAX30102&quot; Feb. 2019" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1150" y="1030" width="220" height="83" as="geometry" />
+          <mxGeometry x="1150" y="1000" width="220" height="83" as="geometry" />
         </mxCell>
         <mxCell id="DmaP0IcwDJtdefpeu606-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DmaP0IcwDJtdefpeu606-6" target="DmaP0IcwDJtdefpeu606-13">
           <mxGeometry relative="1" as="geometry" />
@@ -497,7 +497,7 @@
             <mxPoint x="2530" y="1000" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DmaP0IcwDJtdefpeu606-8" value="Herzfrequenz-messgerät" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="DmaP0IcwDJtdefpeu606-8" value="Herzfrequenz-messung" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1610" y="700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-sYWdjPN1BsK5IJ5CKsn-93" value="Erkennung" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
@@ -529,8 +529,8 @@
         <mxCell id="-sYWdjPN1BsK5IJ5CKsn-95" value="Lungenentzündung&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="3017.5" y="1530" width="155" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="DmaP0IcwDJtdefpeu606-11" value="C / C++" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1450" y="910" width="120" height="60" as="geometry" />
+        <mxCell id="DmaP0IcwDJtdefpeu606-11" value="Interface" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1640" y="938.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-sYWdjPN1BsK5IJ5CKsn-96" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;fontColor=#000000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="-sYWdjPN1BsK5IJ5CKsn-74" target="-sYWdjPN1BsK5IJ5CKsn-84">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -539,7 +539,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DmaP0IcwDJtdefpeu606-12" value="Arduino" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1450" y="1010" width="120" height="60" as="geometry" />
+          <mxGeometry x="1640" y="1058.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-sYWdjPN1BsK5IJ5CKsn-97" value="Prävention" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="2535" y="1590" width="120" height="60" as="geometry" />
@@ -609,6 +609,45 @@
               <mxPoint x="2595" y="1740" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="DmaP0IcwDJtdefpeu606-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DmaP0IcwDJtdefpeu606-18" target="DmaP0IcwDJtdefpeu606-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DmaP0IcwDJtdefpeu606-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DmaP0IcwDJtdefpeu606-18" target="DmaP0IcwDJtdefpeu606-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DmaP0IcwDJtdefpeu606-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DmaP0IcwDJtdefpeu606-18" target="DmaP0IcwDJtdefpeu606-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DmaP0IcwDJtdefpeu606-18" value="i2C" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="938.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DmaP0IcwDJtdefpeu606-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DmaP0IcwDJtdefpeu606-19" target="DmaP0IcwDJtdefpeu606-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1430" y="1089" />
+              <mxPoint x="1430" y="897" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DmaP0IcwDJtdefpeu606-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DmaP0IcwDJtdefpeu606-19" target="DmaP0IcwDJtdefpeu606-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1430" y="1089" />
+              <mxPoint x="1430" y="1191" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DmaP0IcwDJtdefpeu606-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DmaP0IcwDJtdefpeu606-19" target="DmaP0IcwDJtdefpeu606-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1430" y="1089" />
+              <mxPoint x="1430" y="1041" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DmaP0IcwDJtdefpeu606-19" value="Arduino-Framework" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="1058.5" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
