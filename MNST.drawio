@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-16T07:59:05.607Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Safari/605.1.15" version="20.6.0" etag="GHf-BCBxSMkEQYsZuJMD" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-16T08:01:29.569Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Safari/605.1.15" version="20.6.0" etag="tVEcNVrPmAhXB0kx0hx3" type="github">
   <diagram id="Ox3X5c6o4E4mUoxkDMP3" name="Seite-1">
     <mxGraphModel dx="1670" dy="1049" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
@@ -485,13 +485,7 @@
             <mxPoint x="2530" y="1000" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-sYWdjPN1BsK5IJ5CKsn-91" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;fontColor=#000000;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="-sYWdjPN1BsK5IJ5CKsn-85">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2480" y="1200" as="sourcePoint" />
-            <mxPoint x="2790" y="1470" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-sYWdjPN1BsK5IJ5CKsn-93" value="Erkennung" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="-sYWdjPN1BsK5IJ5CKsn-93" value="Erkennung" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="2780" y="1440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-sYWdjPN1BsK5IJ5CKsn-94" value="Schlafapnoesyndrom" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
@@ -504,6 +498,39 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2410" y="1090" as="sourcePoint" />
             <mxPoint x="2460" y="1040" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-sYWdjPN1BsK5IJ5CKsn-97" value="Prävention" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="2535" y="1590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-sYWdjPN1BsK5IJ5CKsn-98" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;fontColor=#000000;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="-sYWdjPN1BsK5IJ5CKsn-85" target="-sYWdjPN1BsK5IJ5CKsn-97">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2410" y="1270" as="sourcePoint" />
+            <mxPoint x="2460" y="1220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-sYWdjPN1BsK5IJ5CKsn-99" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;fontColor=#000000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="-sYWdjPN1BsK5IJ5CKsn-85" target="-sYWdjPN1BsK5IJ5CKsn-93">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2410" y="1270" as="sourcePoint" />
+            <mxPoint x="2460" y="1220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-sYWdjPN1BsK5IJ5CKsn-100" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;fontColor=#000000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="-sYWdjPN1BsK5IJ5CKsn-93" target="-sYWdjPN1BsK5IJ5CKsn-94">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2410" y="1370" as="sourcePoint" />
+            <mxPoint x="2460" y="1320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-sYWdjPN1BsK5IJ5CKsn-101" value="Smarwatches" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="2375" y="1710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-sYWdjPN1BsK5IJ5CKsn-102" value="Pulsoximetriesensoren" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="2630" y="1710" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-sYWdjPN1BsK5IJ5CKsn-103" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;fontColor=#000000;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="-sYWdjPN1BsK5IJ5CKsn-101">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2580" y="1680" as="sourcePoint" />
+            <mxPoint x="2460" y="1320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
