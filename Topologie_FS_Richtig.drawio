@@ -1,1 +1,137 @@
-<mxfile host="app.diagrams.net" modified="2023-03-07T09:37:34.957Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="WJmf6-BwTYpRLxTZm_tT" version="21.0.2" type="github"><diagram name="Page-1" id="16e2658f-23c8-b752-8be9-c03fbebb8bbe">7VvbcuI4EP0aHkP5DjwOmWSGqtmq1M5en1LCFkY7suWSRALz9SuBbGwJJ4ZxwCTmJVa7JVvdp49aLWfg3ibrLxRky99IBPHAsaL1wP08cBzbs8bij5RsdpKRpwQxRZFS2gu+o59QCS0lXaEIsooiJwRzlFWFIUlTGPKKDFBKnqtqC4KrT81ADA3B9xBgU/o3ivhSSW3L2t/4ClG8VI8e++rGHIQ/YkpWqXpeSlK4u5OAfBilypYgIs8lkXs3cG8pIXx3laxvIZZmzS2263dfc7d4ZQpT3qRDEDm+FU28cRQAezQa34zUe/FNbgYYCauoJqF8SWKSAny3l063U4VyREu0ljzB4tIWl3CN+D+l63+lytBXrQdIUQI5pKqjeGW6KdRlo6Qvm3oHDOYQTwtj3xJM5K2tud0p44DyTxIHmuweYaxG2LYV8naPibQeQlLSF62S9n+Q841qgxUnQrQ30DdCMjUXxin5UWBIShYk5fcgQViGxl+QRiAFSqzGsx3Tlcq7jKxoCGv8lwcKoDHkNTpqaOnY0sAKIF8gETamG6FAIQYcPVXDAaioigs91VUYDmxKChlBKWelkR+kQCgognBcFQOKHmwdqpq+Z72oLy52b5C3SlPZi7bwbxgK4z4U3n0ouFcZCoF35lBQE34CeKVMYMTGE6QcicXzm0TiA2GII5KKW3PCOUmk6/OlTqInAmxZhAnAKJaqoXCvRPR0IWCWQ3ggjLP9VeMpf9wn1ZdLiB2Al3hqJt8wWccySxlCLFIFKnsOE8RCMW+QQrJiw4SkRDYf54CLt9hUglmOFJIEhY3CrRGk5fAcKCPdTOSotTCXk4XrFwGa3x1XkeFMVPu5lMHkRLosJS+BVY/pEq6OhI1twKQFCrWOo9Ci0VPo0RTqNKDQoG0KPR1uJiudH279iv22cPM6AzfnvItiu4sfhQwxTigrrh7t61zyXF9b8qyGS57zFkvepKegq6YgtwEF+Z2hILenoC5QkD/pEgXZbgc4qM+6T+cgrwEH2W1z0EmFC70m541eLlzohQ5Nv/3ChdcTZBcIUs/R3NFFCdLrCfKqCdK/GoLUK7WdI0i/J8guEKSeQV6YIC0DBGc7+ur57gwl1mZk5boauHaEq3pp+PpFHgrOy0PaCdNi+3sn/CTbh07PSrzVEmvlq9PRp01vw1omhn43D6DE1HjV0dI3P8F8qyANo9Z0oe1PB/5nCR/BA0xZuIQmDBe8HigZCFEa/7ElDLEPqfopqHNnC7l24FSdcqAY4Z3NJyPTJ2ZkfzifHFrez+eTsekT/+P5xNdqF8UR+EV8MjF9Ypbx3r1PggZnOWfzST5o2Sdm5eDD+eSi3FW8/t4nM8MlpYQ/xIAxmV6VHfTaFuOExD6oNfSrSbsy8401tD1nosHfsLR/wNK57BfTf+MrNEvz4G6PYqT/xkCu/qWmPlDNPmI/UK5IFgsGW99r5HuLEoj+7EHUDohsvZChf1jWFET6QM64YyAyz15nZhbVo+gkFHn2K85viiJP/x6yaygyD6hmzNy01pU+EhRF2+LbC3WLQuf10gWGIH1MQJaJRGOYLTdMjvOYreR8tKpFpdZyRAmj5sveRrg+VMfBKPtajqWScQqlFpIgR8fRgSRofCAedLi1kwSZRfsZa14v60FzJtDo5GP7lwSNWR2bMXOL2YOmY6Bx3w40orn/T8Pdarb/T0737n8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-03-07T10:05:03.306Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="fDAnilywsIH53PhVfBQ_" version="21.0.2" type="github">
+  <diagram name="Page-1" id="16e2658f-23c8-b752-8be9-c03fbebb8bbe">
+    <mxGraphModel dx="954" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zRu4ixjuDNPaifkA6n76-1" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.inductors.transformer_1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="700" y="220" width="84" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zRu4ixjuDNPaifkA6n76-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="240" width="50" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zRu4ixjuDNPaifkA6n76-4" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zRu4ixjuDNPaifkA6n76-3" target="zRu4ixjuDNPaifkA6n76-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="310" as="sourcePoint" />
+            <mxPoint x="240" y="300" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="145" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zRu4ixjuDNPaifkA6n76-5" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.7;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="zRu4ixjuDNPaifkA6n76-3" target="zRu4ixjuDNPaifkA6n76-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="310" as="sourcePoint" />
+            <mxPoint x="350" y="60" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="145" y="60" />
+              <mxPoint x="357" y="60" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zRu4ixjuDNPaifkA6n76-7" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.mosfets1.n-channel_mosfet_1;" vertex="1" parent="1">
+          <mxGeometry x="302.5" y="340" width="77.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zRu4ixjuDNPaifkA6n76-10" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.mosfets1.n-channel_mosfet_1;" vertex="1" parent="1">
+          <mxGeometry x="302.5" y="130" width="77.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zRu4ixjuDNPaifkA6n76-11" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.mosfets1.n-channel_mosfet_1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="340" width="77.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zRu4ixjuDNPaifkA6n76-12" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.mosfets1.n-channel_mosfet_1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="130" width="77.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zRu4ixjuDNPaifkA6n76-13" value="" style="endArrow=none;html=1;rounded=0;entryX=0.7;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.7;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="zRu4ixjuDNPaifkA6n76-7" target="zRu4ixjuDNPaifkA6n76-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="310" as="sourcePoint" />
+            <mxPoint x="510" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zRu4ixjuDNPaifkA6n76-14" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.7;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="zRu4ixjuDNPaifkA6n76-3" target="zRu4ixjuDNPaifkA6n76-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="310" as="sourcePoint" />
+            <mxPoint x="510" y="260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="145" y="460" />
+              <mxPoint x="357" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zRu4ixjuDNPaifkA6n76-15" value="" style="endArrow=none;html=1;rounded=0;entryX=0.7;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="zRu4ixjuDNPaifkA6n76-3" target="zRu4ixjuDNPaifkA6n76-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="320" as="sourcePoint" />
+            <mxPoint x="510" y="260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="145" y="460" />
+              <mxPoint x="604" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zRu4ixjuDNPaifkA6n76-16" value="" style="endArrow=none;html=1;rounded=0;entryX=0.7;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="zRu4ixjuDNPaifkA6n76-3" target="zRu4ixjuDNPaifkA6n76-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="310" as="sourcePoint" />
+            <mxPoint x="510" y="260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="145" y="60" />
+              <mxPoint x="604" y="60" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zRu4ixjuDNPaifkA6n76-17" value="" style="endArrow=none;html=1;rounded=0;entryX=0.7;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.7;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="zRu4ixjuDNPaifkA6n76-11" target="zRu4ixjuDNPaifkA6n76-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="310" as="sourcePoint" />
+            <mxPoint x="510" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zRu4ixjuDNPaifkA6n76-18" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.7;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="zRu4ixjuDNPaifkA6n76-10" target="zRu4ixjuDNPaifkA6n76-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="310" as="sourcePoint" />
+            <mxPoint x="510" y="260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="357" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zRu4ixjuDNPaifkA6n76-25" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.7;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="zRu4ixjuDNPaifkA6n76-11" target="zRu4ixjuDNPaifkA6n76-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="310" as="sourcePoint" />
+            <mxPoint x="510" y="260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="604" y="302" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zRu4ixjuDNPaifkA6n76-26" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.make_contact;" vertex="1" parent="1">
+          <mxGeometry x="850" y="202" width="75" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="zRu4ixjuDNPaifkA6n76-27" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="zRu4ixjuDNPaifkA6n76-1" target="zRu4ixjuDNPaifkA6n76-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="310" as="sourcePoint" />
+            <mxPoint x="510" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zRu4ixjuDNPaifkA6n76-28" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.signal_sources.source;aspect=fixed;points=[[0.5,0,0],[1,0.5,0],[0.5,1,0],[0,0.5,0]];elSignalType=ac;" vertex="1" parent="1">
+          <mxGeometry x="920" y="234" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zRu4ixjuDNPaifkA6n76-30" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="zRu4ixjuDNPaifkA6n76-26" target="zRu4ixjuDNPaifkA6n76-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="310" as="sourcePoint" />
+            <mxPoint x="750" y="260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="945" y="218" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zRu4ixjuDNPaifkA6n76-31" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="zRu4ixjuDNPaifkA6n76-1" target="zRu4ixjuDNPaifkA6n76-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="780" y="310" as="sourcePoint" />
+            <mxPoint x="750" y="260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="945" y="302" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
