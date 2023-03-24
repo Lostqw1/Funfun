@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-24T10:57:34.826Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="yxB8wJZfD5UIRJaunFAZ" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-24T10:58:40.152Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="PNKNyfTAZFt7qp0g2ivM" version="21.0.6" type="github">
   <diagram name="Page-1" id="16e2658f-23c8-b752-8be9-c03fbebb8bbe">
     <mxGraphModel dx="717" dy="371" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -1665,6 +1665,9 @@
               <mxPoint x="440" y="480" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="QuTBvmIOIHdLfjQirwNA-454" value="&lt;u style=&quot;font-size: 30px;&quot;&gt;Stromlaufplan PV-Anlage Halbenmorgen&lt;/u&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=30;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="755" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
