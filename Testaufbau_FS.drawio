@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-06T08:35:07.836Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="PUT49C24Wqqhm3T_Lv07" version="21.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-06T08:37:35.530Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="fSZ2SV8XCy467CsqGe3e" version="21.1.4" type="github">
   <diagram name="Seite-1" id="84JJWDG8ma4soKkQVWWN">
     <mxGraphModel dx="636" dy="371" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -223,8 +223,8 @@
             <mxPoint x="350" y="530" as="sourcePoint" />
             <mxPoint x="450" y="390" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="520" y="530" />
-              <mxPoint x="520" y="380" />
+              <mxPoint x="500" y="530" />
+              <mxPoint x="500" y="380" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -251,14 +251,14 @@
           <mxGeometry x="230" y="480" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="787iPWyd4pSy5UMx-Urj-103" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.signal_sources.source;aspect=fixed;points=[[0.5,0,0],[1,0.5,0],[0.5,1,0],[0,0.5,0]];elSignalType=ideal;rotation=90;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="497.5" width="45" height="45" as="geometry" />
+          <mxGeometry x="137.5" y="495" width="45" height="45" as="geometry" />
         </mxCell>
         <mxCell id="787iPWyd4pSy5UMx-Urj-104" value="" style="endArrow=none;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="787iPWyd4pSy5UMx-Urj-103" target="787iPWyd4pSy5UMx-Urj-102">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="350" y="530" as="sourcePoint" />
             <mxPoint x="400" y="480" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="153" y="460" />
+              <mxPoint x="160" y="460" />
               <mxPoint x="250" y="460" />
             </Array>
           </mxGeometry>
@@ -268,7 +268,7 @@
             <mxPoint x="350" y="530" as="sourcePoint" />
             <mxPoint x="400" y="480" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="153" y="580" />
+              <mxPoint x="160" y="580" />
               <mxPoint x="250" y="580" />
             </Array>
           </mxGeometry>
